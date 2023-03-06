@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c0863d7-3d28-4707-b9e5-95422ea4ff7f" name="Changes" comment="master commmit">
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7c0863d7-3d28-4707-b9e5-95422ea4ff7f" name="Changes" comment="testing1 commmit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="testing" />
       </map>
     </option>
   </component>
@@ -41,23 +39,11 @@
       <option name="presentableId" value="Default" />
       <updated>1678076958513</updated>
       <workItem from="1678076959746" duration="20000" />
-      <workItem from="1678078921275" duration="80000" />
+      <workItem from="1678078921275" duration="44000" />
     </task>
-    <task id="LOCAL-00001" summary="master commmit">
-      <created>1678078978153</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678078978153</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="master commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="master commmit" />
   </component>
 </project>
